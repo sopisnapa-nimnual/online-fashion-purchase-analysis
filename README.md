@@ -15,6 +15,7 @@ Online fashion platforms face increasing competition, making it essential to und
 
 ## Methodology
 The analysis was conducted using the following techniques:
+* **One-way ANOVA** to compare differences in purchasing behavior across different consumer groups
 * **K-means Clustering** to segment consumers based on purchasing behavior
 * **Random Forest** to identify the most important factors influencing purchase decisions
 * **Ordinal Logistic Regression** to analyze relationships between marketing factors and purchase decisions
